@@ -9,7 +9,7 @@ Install VS code and Angular CLI.
 If you are new to Angular then refer to my article [Getting Started With Angular 6.0](http://ankitsharmablogs.com/getting-started-with-angular-6-0/) to set Angular 6 development environment your machine.
 # Read the full article at
 
-http://ankitsharmablogs.com/understanding-angular-6-animations/
+https://ankitsharmablogs.com/understanding-angular-animation/
 # Execution Demo
 ## Change the size of Div
 ![Alt Text](http://ankitsharmablogs.com/wp-content/uploads/2018/09/ChangeSize.gif)
